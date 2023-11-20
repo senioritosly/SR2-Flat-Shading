@@ -1,0 +1,25 @@
+# ninja log v5
+29	222	0	C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/SR2-Flat-Shading/SR2-Flat-Shading/cmake-build-debug/CMakeFiles/cmake.verify_globs	bbf450e5dab37eb8
+2	5124	7222253303661139	CMakeFiles/SR1.dir/src/color.cpp.obj	4f2cd4408a6cdf92
+51	6111	7222253313560641	CMakeFiles/SR1.dir/src/framebuffer.cpp.obj	c1f32393b6205fff
+36	9587	7222253348325416	CMakeFiles/SR1.dir/src/main.cpp.obj	8dd9d2f98de7b3e8
+9591	9933	7222253351748282	SR1.exe	2355218f14a71f89
+10	54	0	C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/SR2-Flat-Shading/SR2-Flat-Shading/cmake-build-debug/CMakeFiles/cmake.verify_globs	bbf450e5dab37eb8
+18	4909	7222253859300602	CMakeFiles/SR1.dir/src/main.cpp.obj	8dd9d2f98de7b3e8
+4910	5235	7222253862515255	SR1.exe	2355218f14a71f89
+7	54	0	C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/SR2-Flat-Shading/SR2-Flat-Shading/cmake-build-debug/CMakeFiles/cmake.verify_globs	bbf450e5dab37eb8
+9	60	0	C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/SR2-Flat-Shading/SR2-Flat-Shading/cmake-build-debug/CMakeFiles/cmake.verify_globs	bbf450e5dab37eb8
+10	5351	7222254242931050	CMakeFiles/SR1.dir/src/main.cpp.obj	8dd9d2f98de7b3e8
+5352	5654	7222254245915932	SR1.exe	2355218f14a71f89
+7	57	0	C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/SR2-Flat-Shading/SR2-Flat-Shading/cmake-build-debug/CMakeFiles/cmake.verify_globs	bbf450e5dab37eb8
+14	4819	7222254676186513	CMakeFiles/SR1.dir/src/main.cpp.obj	8dd9d2f98de7b3e8
+4820	5098	7222254678933768	SR1.exe	2355218f14a71f89
+12	113	0	C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/SR2-Flat-Shading/SR2-Flat-Shading/cmake-build-debug/CMakeFiles/cmake.verify_globs	bbf450e5dab37eb8
+15	5773	7222255169715479	CMakeFiles/SR1.dir/src/main.cpp.obj	8dd9d2f98de7b3e8
+5774	6109	7222255173068710	SR1.exe	2355218f14a71f89
+8	53	0	C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/SR2-Flat-Shading/SR2-Flat-Shading/cmake-build-debug/CMakeFiles/cmake.verify_globs	bbf450e5dab37eb8
+11	5051	7222256058883897	CMakeFiles/SR1.dir/src/main.cpp.obj	8dd9d2f98de7b3e8
+5053	5345	7222256061802433	SR1.exe	2355218f14a71f89
+10	77	0	C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/SR2-Flat-Shading/SR2-Flat-Shading/cmake-build-debug/CMakeFiles/cmake.verify_globs	bbf450e5dab37eb8
+18	5794	7222257054462268	CMakeFiles/SR1.dir/src/main.cpp.obj	8dd9d2f98de7b3e8
+5795	6169	7222257058225618	SR1.exe	2355218f14a71f89
